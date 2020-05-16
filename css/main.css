@@ -1,0 +1,24 @@
+.container {
+    background-color: #dddddd;
+    width: 60%;
+    height: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    padding: 3em;
+}
+
+.content-container {
+    margin-top: 1em;
+    margin-bottom: 2em;
+    background-color: beige;
+    height: 100%;
+    width: 60%;
+}
+
+body {
+    min-height: 100vh;
+    padding: 0;
+}

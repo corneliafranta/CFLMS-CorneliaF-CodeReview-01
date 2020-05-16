@@ -1,0 +1,25 @@
+nav {
+    height: 3em;
+    background-color: #C65252;
+    margin-top: 0;
+    text-align: right;
+}
+
+nav ul {
+    list-style-type: none;
+    margin-block-start: 0;
+    padding-top: 0.5em;
+    font-size: 1.5em;
+    padding-right: 1em;
+}
+
+nav li {
+    display: inline;
+    padding-right: 1em;;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #EDDCD7;
+    font-family: 'Arial Nova Bold', sans-serif;
+}

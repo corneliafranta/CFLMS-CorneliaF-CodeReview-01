@@ -1,0 +1,29 @@
+.container {
+    padding: 3em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.content-container {
+    height: 30em;
+    margin: auto;
+    width: calc(60% + 9em);
+    margin-bottom: 2em;
+}
+
+.content-item {
+    float: left;
+    margin-right: 2em;
+    width: 40%;
+}
+
+.content-text {
+    width: 100%;
+    font-family: 'Arial Nova Bold', sans-serif;
+    padding-top: 2em;
+    margin-left: 4em;
+}
+
+.content-img {
+    height: 30em;
+}
